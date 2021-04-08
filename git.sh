@@ -77,8 +77,8 @@ cd $HOME
 pkg update && pkg upgrade
 pkg install git
 pkg install wget
-git clone https://github.com/SKILLERSHELBY/skiller1
-cd skiller1
+git clone https://github.com/Darkziinh/bot4.0
+cd bot4.0
 bash install.sh
 sleep 2
 echo ""
